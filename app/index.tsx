@@ -1,4 +1,4 @@
-import TaskLogoImage from "@/assets/images/task_logo.png";
+import TaskLogoImage from "@assets/images/task-logo.png";
 import { Image, StyleSheet, Text, View } from "react-native";
 
 const HomeScreen=()=>{
